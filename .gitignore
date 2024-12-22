@@ -1,0 +1,50 @@
+# Build Folders
+bin/
+obj/
+
+# User-Specific Files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Package Files
+*.nupkg
+*.snupkg
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Configurations
+appsettings.*.json
+secrets.json
+
+# Runtime and Cache
+.vs/
+*.pidb
+*.rsuser
+.vscode/
+_ReSharper*/
+.vscode-test/
+_TestResults/
+
+# Dependency Caches
+node_modules/
+packages/
+
